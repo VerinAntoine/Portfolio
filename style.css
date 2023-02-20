@@ -19,6 +19,12 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
+#particles-js {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+
 .hero {
     min-height: 90vh;
     display: flex;
